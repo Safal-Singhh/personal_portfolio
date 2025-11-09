@@ -85,7 +85,7 @@ function App() {
           >
             <img
               src={pp}
-              className="w-[70px] h-[70px] rounded-full object-cover"
+              className="w-[70px] h-[70px] rounded-full object-cover mt-2"
               alt=""
             />
             <h2 className="section-title">
